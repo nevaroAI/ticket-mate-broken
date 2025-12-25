@@ -1,0 +1,18 @@
+{
+  "name": "ticket-mate-broken",
+  "version": "1.0.0",
+  "description": "Intentionally broken codebase for Ticket Mate bug tracker demo",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": ["demo", "bugs", "broken"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
+
